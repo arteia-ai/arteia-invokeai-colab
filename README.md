@@ -1,3 +1,7 @@
+<img src="https://github.com/tu-usuario/arteia-invokeai-colab/raw/main/assets/arteia-banner.png" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
+
+
+
 # 📦 arteia-invokeai-colab
 
 Use Invoke AI on Google Colab with a full web UI. No installation required. By ArteIA.
