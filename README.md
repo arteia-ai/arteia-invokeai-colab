@@ -1,4 +1,4 @@
-<img src="https://github.com/tu-usuario/arteia-invokeai-colab/raw/main/assets/arteia-banner.png" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
+<img src="https://github.com/arteia-ai/arteia-invokeai-colab/raw/main/assets/arteia-banner.png" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
 
 
 
