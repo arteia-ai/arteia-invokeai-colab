@@ -1,7 +1,7 @@
 <img src="https://github.com/arteia-ai/arteia-invokeai-colab/raw/main/assets/banner_github.jpg" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/arteia-ai/arteia-invokeai-colab/blob/main/invokeai-v6-0-2-colab.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/arteia-ai/arteia-invokeai-colab/blob/main/notebooks/invokeai-v6-0-2-colab.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="height:60px;">
   </a>
 </p>
