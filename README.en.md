@@ -49,8 +49,8 @@ Created by [ArteIA](https://www.youtube.com/@arteia) to make image generation mo
 ---
 
 ## ✨ Features
-
-* Full **Web UI** for Invoke AI (v6.0.2)
+* 🚀 Launches in ≈ 4 minutes on Colab Free (T4 GPU)
+* Full **Web UI** for Invoke AI — no features disabled
 * Works on **any device**, even without GPU
 * **No installation**, setup in minutes
 * Tunnels with **Cloudflare** for public access
