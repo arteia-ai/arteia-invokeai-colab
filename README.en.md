@@ -1,5 +1,8 @@
 <img src="https://github.com/arteia-ai/arteia-invokeai-colab/raw/main/assets/banner_github.jpg" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
 
+<h1 align="center">Invoke AI v6.0.2</h1>
+<h2 align="center">SD - SDXL- FLUX - ControlNet - FLUX Kontext...</h2>
+
 <p align="center">
   <a href="https://colab.research.google.com/github/arteia-ai/arteia-invokeai-colab/blob/main/notebooks/invokeai-v6-0-2-colab.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="height:60px;">
@@ -37,6 +40,9 @@ Created by [ArteIA](https://www.youtube.com/@arteia) to make image generation mo
 3. Wait until you see the public URL (looks like `https://xxx.trycloudflare.com`).
 
 4. Open the URL and start generating images.
+
+5. Once the interface is up and running, open Model Manager and you can install SD, SDXL, FLUX, LoRA, ControlNet, or any other model with a single click.
+   
 
 > 📝 No technical knowledge required. Everything runs from the browser.
 
