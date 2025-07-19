@@ -1,5 +1,9 @@
 <img src="https://github.com/arteia-ai/arteia-invokeai-colab/raw/main/assets/banner_github.jpg" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
 
+<h1 align="center">Invoke AI v6.0.2</h1>
+<h2 align="center">SD - SDXL- FLUX - ControlNet - FLUX Kontext...</h2>
+
+
 <p align="center">
   <a href="https://colab.research.google.com/github/arteia-ai/arteia-invokeai-colab/blob/main/notebooks/invokeai-v6-0-2-colab.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab" style="height:60px;">
@@ -21,7 +25,7 @@ Usa Invoke AI en Google Colab con interfaz web completa. Sin instalación. Por A
 Una forma sencilla y bonita de usar **Invoke AI** directamente desde tu navegador —  
 sin necesidad de GPU ni instalaciones complicadas.
 
-Este notebook lanza la **WebUI completa de Invoke AI v6.0.2** desde Google Colab.
+Este notebook lanza la **WebUI completa de Invoke AI** desde Google Colab.
 
 Creado por [ArteIA](https://www.youtube.com/@arteia) para hacer la generación de imágenes con IA más accesible y divertida para todos.
 
@@ -41,13 +45,16 @@ Creado por [ArteIA](https://www.youtube.com/@arteia) para hacer la generación d
 
 4. Ábrela en una nueva pestaña y empieza a crear imágenes.
 
+5. Una vez tengas la interfaz en marcha, abre el Model Manager y podrás instalar SD, SDXL, FLUX, LoRA, ControlNet o cualquier modelo con un solo clic.
+   
+
 > 📝 No necesitas conocimientos técnicos. Todo se ejecuta desde el navegador.
 
 ---
 
 ## ✨ Características
 
-* Interfaz web completa de **Invoke AI v6.0.2**
+* Interfaz web completa de **Invoke AI**
 * Funciona en **cualquier dispositivo**, incluso sin GPU
 * **Sin instalación**, se configura en pocos minutos
 * Acceso desde cualquier parte gracias a **Cloudflare Tunnel**
