@@ -54,7 +54,8 @@ Creado por [ArteIA](https://www.youtube.com/@arteia) para hacer la generación d
 
 ## ✨ Características
 
-* Interfaz web completa de **Invoke AI**
+* 🚀 Arranca en ≈ 4 minutos en Colab Free (GPU T4)
+* Interfaz web completa de **Invoke AI** — sin funciones desactivadas
 * Funciona en **cualquier dispositivo**, incluso sin GPU
 * **Sin instalación**, se configura en pocos minutos
 * Acceso desde cualquier parte gracias a **Cloudflare Tunnel**
