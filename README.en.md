@@ -56,6 +56,16 @@ Created by [ArteIA](https://www.youtube.com/@arteia) to make image generation mo
 * Tunnels with **Cloudflare** for public access
 
 ---
+<!--
+## 🎬 YouTube Tutorial
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO" target="_blank">
+    <img src="assets/Invoke-colab-yt.jpg" alt="Watch tutorial on YouTube" style="width:80%; max-width:600px; border-radius:12px;">
+  </a>
+</p>
+-->
+---
 
 ## 🔐 License
 
