@@ -69,8 +69,9 @@ Creado por [ArteIA](https://www.youtube.com/@arteia) para hacer la generación d
     <img src="assets/Invoke-colab-yt.jpg" alt="Ver tutorial en YouTube" style="width:80%; max-width:600px; border-radius:12px;">
   </a>
 </p>
--->
+
 ---
+-->
 
 ## 🔐 Licencia
 
