@@ -64,8 +64,9 @@ Created by [ArteIA](https://www.youtube.com/@arteia) to make image generation mo
     <img src="assets/Invoke-colab-yt.jpg" alt="Watch tutorial on YouTube" style="width:80%; max-width:600px; border-radius:12px;">
   </a>
 </p>
--->
+
 ---
+-->
 
 ## 🔐 License
 
