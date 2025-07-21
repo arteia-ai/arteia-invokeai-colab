@@ -61,17 +61,17 @@ Creado por [ArteIA](https://www.youtube.com/@arteia) para hacer la generación d
 * Acceso desde cualquier parte gracias a **Cloudflare Tunnel**
 
 ---
-<!--
+
 ## 🎬 Tutorial en YouTube
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO" target="_blank">
+  <a href="https://youtu.be/N98_VmAn0MQ" target="_blank">
     <img src="assets/Invoke-colab-yt.jpg" alt="Ver tutorial en YouTube" style="width:80%; max-width:600px; border-radius:12px;">
   </a>
 </p>
 
 ---
--->
+
 
 ## 🔐 Licencia
 
