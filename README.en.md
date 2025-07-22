@@ -42,7 +42,12 @@ Created by [ArteIA](https://www.youtube.com/@arteia) to make image generation mo
 4. Open the URL and start generating images.
 
 5. Once the interface is up and running, open Model Manager and you can install SD, SDXL, SD 3.5, FLUX, LoRA, ControlNet, or any other model with a single click.
-   
+
+## 🚨 IMPORTANT 🚨
+
+👉 If you click the **“Run all”** button (just below the menu), all the notebook cells will run automatically one after another.  
+⚙️ Perfect if you want to avoid running each block manually!
+
 
 > 📝 No technical knowledge required. Everything runs from the browser.
 
