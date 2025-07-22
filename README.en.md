@@ -1,10 +1,10 @@
 <img src="https://github.com/arteia-ai/arteia-invokeai-colab/raw/main/assets/banner_github.jpg" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
 
-<h1 align="center">Invoke AI v6.0.2</h1>
+<h1 align="center">Invoke AI v6.1.0</h1>
 <h2 align="center">SD - SDXL- FLUX - ControlNet - FLUX Kontext...</h2>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/arteia-ai/arteia-invokeai-colab/blob/main/notebooks/invokeai-v6-0-2-colab.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/arteia-ai/arteia-invokeai-colab/blob/main/notebooks/invokeai-latest.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="height:60px;">
   </a>
 </p>
@@ -21,7 +21,7 @@ Use Invoke AI on Google Colab with a full web UI. No installation required. By A
 ## 🧠 What is this?
 
 A simple and beautiful way to use **Invoke AI** from your browser — no GPU or installation needed.
-This notebook launches the full **Invoke AI Web UI v6.0.2** in Google Colab.
+This notebook launches the full **Invoke AI Web UI** in Google Colab.
 
 Created by [ArteIA](https://www.youtube.com/@arteia) to make image generation more accessible and fun for everyone.
 
