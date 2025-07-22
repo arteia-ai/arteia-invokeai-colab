@@ -46,7 +46,12 @@ Creado por [ArteIA](https://www.youtube.com/@arteia) para hacer la generación d
 4. Ábrela en una nueva pestaña y empieza a crear imágenes.
 
 5. Una vez tengas la interfaz en marcha, abre el Model Manager y podrás instalar SD, SDXL, SD 3.5, FLUX, LoRA, ControlNet o cualquier modelo con un solo clic.
-   
+
+## 🚨 IMPORTANTE 🚨
+
+👉 Si pulsas el botón **“Ejecutar todas”** (debajo del menú), se irán ejecutando automáticamente todos los bloques del notebook, uno tras otro.  
+⚙️ ¡Ideal para no tener que ir uno a uno!
+
 
 > 📝 No necesitas conocimientos técnicos. Todo se ejecuta desde el navegador.
 
