@@ -1,6 +1,6 @@
 <img src="https://github.com/arteia-ai/arteia-invokeai-colab/raw/main/assets/banner_github.jpg" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
 
-<h1 align="center">Invoke AI v6.2.0</h1>
+<h1 align="center">Invoke AI v6.3.0</h1>
 <h2 align="center">SD - SDXL- FLUX - ControlNet - FLUX Kontext...</h2>
 
 
