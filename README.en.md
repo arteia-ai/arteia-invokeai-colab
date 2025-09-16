@@ -1,7 +1,8 @@
 <img src="https://github.com/arteia-ai/arteia-invokeai-colab/raw/main/assets/banner_github.jpg" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
 
-<h1 align="center">Invoke AI v6.6.0</h1>
-<h2 align="center">SD - SDXL- FLUX - ControlNet - FLUX Kontext...</h2>
+<h1 align="center">Invoke AI v6.7.0</h1>
+<h2 align="center">SD - SDXL - FLUX - ControlNet - FLUX Kontext... <br>🔥 NEW: The notebook now includes Low VRAM Mode </h2>
+
 
 <p align="center">
   <a href="https://colab.research.google.com/github/arteia-ai/arteia-invokeai-colab/blob/main/notebooks/invokeai-latest.ipynb" target="_blank">
@@ -59,6 +60,7 @@ Created by [ArteIA](https://www.youtube.com/@arteia) to make image generation mo
 * Works on **any device**, even without GPU
 * **No installation**, setup in minutes
 * Tunnels with **Cloudflare** for public access
+* ⚡The notebook now includes **Low VRAM Mode**
 
 ---
 
