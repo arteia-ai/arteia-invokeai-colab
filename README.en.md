@@ -1,7 +1,7 @@
 <img src="https://github.com/arteia-ai/arteia-invokeai-colab/raw/main/assets/banner_github.jpg" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
 
-<h1 align="center">Invoke AI v6.8.0</h1>
-<h2 align="center">SD - SDXL - FLUX - ControlNet - FLUX Kontext... <br>🔥 NEW: The notebook now includes Low VRAM Mode </h2>
+<h1 align="center">Invoke AI v6.10.0</h1>
+<h2 align="center">SD - SDXL - FLUX - Z-IMAGE - ControlNet - FLUX Kontext... <br>🔥 NEW: The notebook now includes Low VRAM Mode </h2>
 
 
 <p align="center">
