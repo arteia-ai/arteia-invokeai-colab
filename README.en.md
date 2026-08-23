@@ -10,6 +10,8 @@
   </a>
 </p>
 
+Fixed error in Python version
+
 ---
 🇪🇸 [Leer esto en español](README.md)
 
