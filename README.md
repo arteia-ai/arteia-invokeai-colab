@@ -10,7 +10,7 @@
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab" style="height:60px;">
   </a>
 </p>
-
+Arreglado error en la versión de Python
 ---
 
 🇬🇧 [Read this in English](README.en.md)
